@@ -1,0 +1,41 @@
+# === Visual Studio ===
+.vs/
+**/.vs/
+*.user
+*.suo
+*.VC.db
+*.VC.opendb
+*.ipch
+*.aps
+*.ncb
+*.obj
+*.log
+*.pdb
+*.idb
+*.tlog
+*.lastbuildstate
+*.cache
+*.ilk
+
+# === Build Output ===
+[Bb]uild/
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+*.exe
+*.dll
+*.lib
+
+# === Temporary files ===
+*.tmp
+*.bak
+*.swp
+*.sdf
+*.db
+
+# === OS files ===
+Thumbs.db
+.DS_Store
+ehthumbs.db
+Desktop.ini
